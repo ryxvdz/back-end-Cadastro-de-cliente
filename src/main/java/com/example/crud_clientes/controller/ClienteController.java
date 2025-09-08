@@ -23,6 +23,7 @@ public class ClienteController {
     }
 
 
+
     @GetMapping("/{id}")
     public Optional<Cliente> getCLienteById(@PathVariable Long id){
         return clienteRepository.findById(id);

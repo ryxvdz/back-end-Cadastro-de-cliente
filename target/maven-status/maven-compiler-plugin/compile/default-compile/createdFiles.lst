@@ -1,0 +1,4 @@
+com\example\crud_clientes\CrudClientesApplication.class
+controller\ClienteController.class
+repository\ClienteRepository.class
+model\Cliente.class

@@ -17,7 +17,7 @@ O objetivo do projeto é demonstrar a criação de uma **API RESTful completa**,
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Linguagem:** Java 21  
+- **Linguagem:** Java 17  
 - **Framework:** Spring Boot (v3.5.5)  
 - **Persistência:** Spring Data JPA  
 - **Banco de Dados:** PostgreSQL  
